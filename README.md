@@ -104,3 +104,8 @@ Designed and implemented a SIEM use case using Splunk to monitor and analyze sim
 
 If you want, I can also make a **short, professional "Resume Version"** of this so it fits in a *Work/Projects* section perfectly.
 That way, it’ll be hiring-manager friendly.
+![WhatsApp Image 2025-08-13 at 4 52 05 PM](https://github.com/user-attachments/assets/63ae2a98-cf05-46e4-a6f1-a969671fbb9f)
+
+![WhatsApp Image 2025-08-13 at 4 52 05 PM (1)](https://github.com/user-attachments/assets/7bd7008a-89e6-45cf-80b6-9806ad2cbf41)
+
+![WhatsApp Image 2025-08-13 at 4 52 05 PM (2)](https://github.com/user-attachments/assets/60c28320-c3d0-4dcb-b526-5c2e8dd1705e)
